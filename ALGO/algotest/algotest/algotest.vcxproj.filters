@@ -126,5 +126,11 @@
     <ClCompile Include="algo_11047.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="algo_9095.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="algo_1931.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
